@@ -1,6 +1,5 @@
-#FOR DEVELOPMENT ONLY!
 > Written with [StackEdit](https://stackedit.io/).
-# Laravel 5.6 Complete Installation `Cloud9 C9`
+# `Laravel 5.6 Complete Installation Cloud9 C9`
 
 ## ONE - Create workspace
 ![https://github.com/dev-nowornet/Laravel-5.6-Complete-Installation-Cloud9-C9/raw/master/workspace.png](https://github.com/dev-nowornet/Laravel-5.6-Complete-Installation-Cloud9-C9/raw/master/workspace.png)
