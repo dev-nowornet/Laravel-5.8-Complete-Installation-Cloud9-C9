@@ -21,7 +21,7 @@
 ![https://github.com/dev-nowornet/Laravel-5.6-Complete-Installation-Cloud9-C9/raw/master/333.png](https://github.com/dev-nowornet/Laravel-5.6-Complete-Installation-Cloud9-C9/raw/master/333.png)
 
 
-Total installation will take about 10 minutes which is normal. It will also create auth scaffolding and make the first migration.
+Total installation will take about 5 minutes which is normal. It will also create auth scaffolding and make the first migration.
 
 PHPMYADMIN credentials are: root and no password. 
 # FOR DEVELOPMENT ONLY!
