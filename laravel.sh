@@ -54,4 +54,4 @@ php artisan migrate
 #
 rm -rf laravel.sh
 
-#Edited by Bretfelean Cristian
+#Edited by Bretfelean Sorin Cristian
