@@ -40,7 +40,8 @@ phpmyadmin-ctl install
 
 mysql-ctl cli
 use c9;
-select @@hostname;FLUSH PRIVILEGES;
+select @@hostname;
+FLUSH PRIVILEGES;
 exit
 
 
