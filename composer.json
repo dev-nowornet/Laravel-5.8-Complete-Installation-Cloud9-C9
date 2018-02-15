@@ -1,6 +1,6 @@
 {
-    "name": "dev-nowornet/laravel-5.6-complete-installation-cloud9-c9",
-    "description": "Complete, fast and easy installation of laravel 5.6 on a new instance of Cloud9 workspace. FOR DEVELOPMENT ONLY!",
+    "name": "dev-nowornet/laravel-5.6-complete-install-cloud9-c9",
+    "description": "Complete, fast and easy install of laravel 5.6 on a new instance of Cloud9 workspace.",
     "keywords": ["laravel","cloud","cloud9", "complete", "installation","install", "bash", "easy", "c9","c9.io"],
     "license": "MIT",
     "authors": [
