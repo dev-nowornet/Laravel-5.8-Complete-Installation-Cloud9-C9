@@ -1,0 +1,13 @@
+{
+    "name": "dev-nowornet/laravel-5.6-complete-installation-cloud9-c9",
+    "description": "Complete, fast and easy installation of laravel 5.6 on a new instance of Cloud9 workspace. FOR DEVELOPMENT ONLY!",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bretfelean Sorin Cristian",
+            "email": "bretfe@gmail.com"
+        }
+    ],
+    "require": {}
+}
