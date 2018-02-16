@@ -30,14 +30,14 @@ sudo dpkg -i mysql-apt-config_0.8.9-1_all.deb
 sudo service apache2 restart
 sudo apt-get update
 sudo apt-get install mysql-server -y 
-mysql-ctl install -y
-sudo usermod -d /var/lib/mysql/ mysql
+#mysql-ctl install -y
+#sudo usermod -d /var/lib/mysql/ mysql
 sudo service  mysql restart 
 sudo mysql_upgrade
 
 #Install Phpmyadmin
 #
-phpmyadmin-ctl install
+#phpmyadmin-ctl install
 
 #Configure database and .env file database=laravel, user=root, no password
 #
