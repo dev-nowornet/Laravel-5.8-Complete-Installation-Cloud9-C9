@@ -23,5 +23,5 @@
 
 Total installation will take about 5 minutes which is normal. It will also create auth scaffolding and make the first migration.
 
-PHPMYADMIN credentials are: root and no password. 
-# RECOMMENDED FOR DEVELOPMENT ONLY!
+
+### RECOMMENDED FOR DEVELOPMENT ONLY!
