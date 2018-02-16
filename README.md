@@ -26,4 +26,3 @@ Copy and paste one line at the time on the cloud9 workspace console:
 Total installation will take about 5 minutes which is normal. It will also create auth scaffolding and make the first migration.
 
 
-### RECOMMENDED FOR DEVELOPMENT ONLY!
