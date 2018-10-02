@@ -11,7 +11,7 @@
 Copy paste this command in one line on the cloud9 workspace console:
 (in one line!)
 
-` wget "https://raw.githubusercontent.com/dev-nowornet/Laravel-5.7-Complete-Installation-Cloud9-C9/master/laravel.sh" -O - | sh`
+` wget "https://raw.githubusercontent.com/dev-nowornet/Laravel-5.7-Complete-Installation-Cloud9-C9/master/laravel.sh" && bash laravel.sh `
 
 
 
