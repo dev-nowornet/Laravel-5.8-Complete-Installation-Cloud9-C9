@@ -8,12 +8,10 @@
 
 ## TWO - install Laravel 5.7 environement and app
 
-Copy and paste one line at the time on the cloud9 workspace console:
+Copy paste this command on the cloud9 workspace console:
 
-` wget "https://raw.githubusercontent.com/dev-nowornet/Laravel-5.7-Complete-Installation-Cloud9-C9/master/laravel.sh"`
+` wget "https://raw.githubusercontent.com/dev-nowornet/Laravel-5.7-Complete-Installation-Cloud9-C9/master/laravel.sh" -O - | sh`
 
-
- `bash laravel.sh`
 
 
 ## THREE - install and configure database
