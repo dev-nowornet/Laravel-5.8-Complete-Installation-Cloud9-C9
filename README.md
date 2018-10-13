@@ -13,7 +13,9 @@ Copy paste this command in one line on the cloud9 workspace console:
 
 ` wget "https://raw.githubusercontent.com/dev-nowornet/Laravel-5.7-Complete-Installation-Cloud9-C9/master/laravel.sh" && bash laravel.sh `
 
+## PHPMYADMIN - ADDED VERSION - if you wish an beta forced phpmyadmin version use this command instead:
 
+` wget "https://raw.githubusercontent.com/dev-nowornet/Laravel-5.7-Complete-Installation-Cloud9-C9/master/beta.sh" && bash beta.sh `
 
 ## THREE - install and configure database
 
