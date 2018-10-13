@@ -48,8 +48,10 @@ php artisan migrate
 phpmyadmin-ctl install
 #remove laravel installer
 #
+rm -rf test.sh
 rm -rf laravel.sh
 rm -rf mysql-apt-config_0.8.9-1_all.deb
-#Edited by Bretfelean Sorin Cristian
+
 sudo service apache2 restart
 sudo service mysql restart
+#Edited by Bretfelean Sorin Cristian
