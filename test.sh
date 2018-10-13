@@ -45,7 +45,7 @@ printf '%s\n' ':%s/DB_PASSWORD=secret/DB_PASSWORD=/g' 'x'  | sudo ex .env
 #
 php artisan make:auth
 php artisan migrate
-
+phpmyadmin-ctl install
 #remove laravel installer
 #
 rm -rf laravel.sh
