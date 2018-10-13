@@ -1,11 +1,11 @@
 # Clear existing files
 #
 rm hello-world.php php.ini README.md
-# phpmyadmin-ctl install
+phpmyadmin-ctl install
 # Install and configure PHP 7.1 Ondrej Repository
 #
 sudo add-apt-repository ppa:ondrej/php -y
-sudo add-apt-repository ppa:nijel/phpmyadmin -y
+# sudo add-apt-repository ppa:nijel/phpmyadmin -y
 sudo apt-get update
 sudo apt-get install libapache2-mod-php7.1 -y
 sudo a2dismod php5
