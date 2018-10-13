@@ -51,3 +51,4 @@ php artisan migrate
 rm -rf laravel.sh
 rm -rf mysql-apt-config_0.8.9-1_all.deb
 #Edited by Bretfelean Sorin Cristian
+sudo service apache2 restart
