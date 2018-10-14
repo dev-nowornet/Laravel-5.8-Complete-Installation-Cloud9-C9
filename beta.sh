@@ -1,6 +1,8 @@
 # Clear existing files
 #
 rm hello-world.php php.ini README.md
+# Install phpmyadmin
+#
 phpmyadmin-ctl install
 # Install and configure PHP 7.1 Ondrej Repository
 #
@@ -45,6 +47,9 @@ printf '%s\n' ':%s/DB_PASSWORD=secret/DB_PASSWORD=/g' 'x'  | sudo ex .env
 #
 php artisan make:auth
 php artisan migrate
+
+# Reinstall phpmyadmin
+#
 phpmyadmin-ctl install
 #remove laravel installer
 #
