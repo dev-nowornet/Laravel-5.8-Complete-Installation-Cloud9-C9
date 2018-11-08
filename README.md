@@ -8,8 +8,7 @@
 
 ## TWO - install Laravel 5.7 environement and app
 
-Copy paste this command in one line on the cloud9 workspace console:
-(in one line!)
+Use this command in one line on the cloud9 workspace console:
 
 ` wget "https://raw.githubusercontent.com/dev-nowornet/Laravel-5.7-Complete-Installation-Cloud9-C9/master/laravel.sh" && bash laravel.sh `
 
