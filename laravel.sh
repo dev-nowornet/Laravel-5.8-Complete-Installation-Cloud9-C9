@@ -42,8 +42,8 @@ printf '%s\n' ':%s/DB_PASSWORD=secret/DB_PASSWORD=/g' 'x'  | sudo ex .env
 
 #Artisan auth scaffolding and migration
 #
-php artisan make:auth
-php artisan migrate
+#php artisan make:auth
+#php artisan migrate
 
 #remove laravel installer
 #
