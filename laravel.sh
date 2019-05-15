@@ -4,7 +4,7 @@ rm hello-world.php php.ini README.md
 
 # Install and configure PHP 7.1 Ondrej Repository
 #
-sudo add-apt-repository ppa:ondrej/php -y
+sudo apt-add-repository ppa:ondrej/php -y
 sudo apt-get update
 sudo apt-get install libapache2-mod-php7.1 -y
 sudo a2dismod php5
