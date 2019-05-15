@@ -7,7 +7,7 @@ rm hello-world.php php.ini README.md
 sudo apt-get install software-properties-common python-software-properties
 sudo apt-add-repository ppa:ondrej/php -y
 sudo apt-get update
-sudo apt-get install libapache2-mod-php -y
+sudo apt-get install libapache2-mod-php7.2 -y
 sudo a2dismod php5
 sudo a2enmod php7.2
 sudo apt-get install php7.2-curl php7.2-cli php7.2-dev php7.2-gd php7.2-intl php7.2-mcrypt php7.2-json php7.2-mysql php7.2-opcache php7.2-bcmath php7.2-mbstring php7.2-soap php7.2-xml php7.2-zip -y
